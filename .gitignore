@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+train.csv
+test.csv
+gender_submission.csv
+.env.*
+.DS_Store
